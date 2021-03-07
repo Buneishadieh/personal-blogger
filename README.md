@@ -1,13 +1,10 @@
 ## Author
-Yvette Adana
-## Description
-A blog that allows users to view ,like, delete and write their own quote as well and be able to view it.
-
+Bunei Shadrack
 ## Set-up Instructions
 In the terminal navigate to the directory you want the project to reside in e.g (cd ~/Desktop)
-Clone the project (git clone https://github.com/54adana/Personal-blogs.git)
-Navigate into the created folder (cd Pitch)
-Open the project with a text editor eg visual studio (code .) or atom (atom .)
+Clone the project (git clone https://github.com/Buneishadieh/personal-blogger.git)
+Navigate into the created folder (cd personal_blog)
+Open the project with a text editor eg visual studio (code .) .
 ## Live link
 https://blog754.herokuapp.com/
 
