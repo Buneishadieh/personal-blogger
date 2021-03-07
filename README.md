@@ -48,7 +48,7 @@ visitor==0.1.3
 Werkzeug==0.16.0
 WTForms==2.2.1
 ## copyright
-copyright © 2019 Adana
+copyright © 2021  Bunei Shadrack
 
 License
 MIT
